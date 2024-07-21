@@ -38,7 +38,7 @@ The dataset consists of images of various celebrities, organized in different di
 - **Model Evaluation**: Assess the classifier's performance using classification reports and confusion matrices.
 - **Visualization**: Visualize evaluation results through confusion matrices and other relevant plots.
 
-## Example Output
+## Preprocessing steps
 
 ### Face and Eye Detection
 ![Face and Eye Detection](images/face_eye_detection.png)
@@ -51,6 +51,9 @@ The dataset consists of images of various celebrities, organized in different di
 
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
+
+## Output
+![Input-image](images/output.png)
 
 ---
 
