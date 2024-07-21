@@ -1,9 +1,8 @@
 
 ---
 
-# Celebrity Face Recognition
+# Facial Recognition System
 
-This project implements a celebrity face recognition system using machine learning and image processing techniques. The system detects faces and eyes in images, crops the facial regions, applies wavelet transformation, and trains a classifier to recognize different celebrities.
 
 ## Overview
 
