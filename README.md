@@ -56,7 +56,7 @@ The dataset consists of images of various celebrities, organized in different di
 
 Here is an example of an image processed by the model along with its predicted celebrity name:
 
-![Example Image](images/example_image.png)
+![Example Image](images/output.png)
 
 **Predicted Celebrity**: Serena Williams
 ---
