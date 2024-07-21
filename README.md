@@ -41,17 +41,16 @@ The dataset consists of images of various celebrities, organized in different di
 ## Example Output
 
 ### Face and Eye Detection
-![Face and Eye Detection](example_output/face_eye_detection.png)
+![Face and Eye Detection](images/face_eye_detection.png)
 
 ### Cropped Facial Region
-![Cropped Facial Region](example_output/cropped_face.png)
+![Cropped Facial Region](images/cropped_face.png)
 
 ### Wavelet Transformed Image
-![Wavelet Transformed Image](example_output/wavelet_transform.png)
+![Wavelet Transformed Image](images/wavelet_transform.png)
 
 ### Confusion Matrix
-![Confusion Matrix](example_output/confusion_matrix.png)
-
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
