@@ -1,4 +1,3 @@
-Sure! Here's a structured version of the description with the requested sections:
 
 ---
 
@@ -57,4 +56,4 @@ The dataset consists of images of various celebrities, organized in different di
 
 ---
 
-Feel free to customize this description further based on your specific details and preferences for the project.
+
