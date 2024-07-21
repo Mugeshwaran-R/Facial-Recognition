@@ -53,8 +53,12 @@ The dataset consists of images of various celebrities, organized in different di
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ## Output
-![Input-image](images/output.png)
 
+### Input Image
+![Input image](images/output.png)
+
+### Output
+Predicted Celebrity: serena_williams
 ---
 
 
