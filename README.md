@@ -52,13 +52,13 @@ The dataset consists of images of various celebrities, organized in different di
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
-## Output
+### Predicted Output Example
 
-### Input Image
-![Input image](images/output.png)
+Here is an example of an image processed by the model along with its predicted celebrity name:
 
-### Output
-Predicted Celebrity: serena_williams
+![Example Image](images/example_image.png)
+
+**Predicted Celebrity**: Serena Williams
 ---
 
 
